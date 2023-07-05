@@ -2,7 +2,7 @@
 
 <hr/>
 
-[**Paper**](https://arxiv.org/abs/2212.09802) | [**Video**]() | [**Contact**]() <br/>
+[**Paper**]() | [**Video**]() | [**Contact**]() <br/>
 
 
 This repository contains the codes and the dataset for the paper:
@@ -21,5 +21,5 @@ This repository contains the codes and the dataset for the paper:
 If you wish to cite us, please use the following BibTeX entry:
 
 ```BibTeX
-  T0 BE ADDED!
+https://doi.org/10.1145/3594806.3594811
 ```
